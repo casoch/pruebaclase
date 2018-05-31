@@ -1,5 +1,12 @@
 #include <iostream>
 
+
+int Login()
+{
+	//TODO: programar login
+	return 0;
+}
+
 int Registro()
 {
 	std::cout << "registro programado\n";
